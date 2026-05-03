@@ -1,0 +1,10 @@
+{
+  "name": "penguins",
+  "version": "1.0.0",
+  "description": "A comprehensive information resource about penguins — species, biology, conservation",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}

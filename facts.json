@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "category": "biology",
+    "fact": "Penguins have a layer of densely packed, waterproof feathers that trap air close to the body, providing insulation in freezing waters. They have about 100 feathers per square inch, more than most birds.",
+    "species": "All penguins"
+  },
+  {
+    "id": 2,
+    "category": "species",
+    "fact": "The Emperor penguin is the tallest and heaviest of all living penguin species, standing up to 1.2 meters tall and weighing up to 45 kilograms. It is endemic to Antarctica.",
+    "species": "Emperor penguin"
+  },
+  {
+    "id": 3,
+    "category": "behavior",
+    "fact": "Penguins are highly social birds that live in large colonies called rookeries or colonies, sometimes numbering in the hundreds of thousands. Social living helps them conserve warmth and protect against predators.",
+    "species": "All penguins"
+  },
+  {
+    "id": 4,
+    "category": "reproduction",
+    "fact": "Emperor penguin males incubate a single egg on their feet under a warm brood pouch during the Antarctic winter, fasting for up to 65 days in temperatures as low as -60°C. They huddle together in large groups to survive the extreme cold.",
+    "species": "Emperor penguin"
+  },
+  {
+    "id": 5,
+    "category": "diet",
+    "fact": "Penguins are carnivorous and feed primarily on fish, squid, and krill. Their diet varies by species and geographic location, with Antarctic species relying heavily on krill.",
+    "species": "All penguins"
+  },
+  {
+    "id": 6,
+    "category": "evolution",
+    "fact": "Penguins diverged from flying birds approximately 60 million years ago, after the mass extinction event that eliminated the dinosaurs. Their wings evolved into flippers optimized for swimming rather than flight.",
+    "species": "All penguins"
+  },
+  {
+    "id": 7,
+    "category": "habitat",
+    "fact": "Despite their association with cold climates, penguins are found exclusively in the Southern Hemisphere, ranging from Antarctica to the Galápagos Islands near the equator. Not all species live in cold environments.",
+    "species": "All penguins"
+  },
+  {
+    "id": 8,
+    "category": "biology",
+    "fact": "Penguins have a countercurrent heat exchange system in their flippers and legs, where warm arterial blood heats cool venous blood returning from extremities, preventing dangerous heat loss.",
+    "species": "All penguins"
+  },
+  {
+    "id": 9,
+    "category": "species",
+    "fact": "The Little Blue penguin, also known as the Fairy penguin, is the smallest penguin species, standing only about 33 cm tall and weighing around 1 kg. It is native to southern Australia and New Zealand.",
+    "species": "Little Blue penguin"
+  },
+  {
+    "id": 10,
+    "category": "conservation",
+    "fact": "Eighteen of the nineteen recognized penguin species are considered threatened or endangered due to climate change, overfishing, oil spills, and habitat destruction. The International Union for Conservation of Nature lists several species as vulnerable or endangered.",
+    "species": "All penguins"
+  },
+  {
+    "id": 11,
+    "category": "behavior",
+    "fact": "Penguins communicate through a variety of vocalizations and body language, including trumpeting calls, braying, and head movements. Mated pairs use unique calls to identify each other in large, noisy colonies.",
+    "species": "All penguins"
+  },
+  {
+    "id": 12,
+    "category": "biology",
+    "fact": "Penguins can drink salt water because they have a supraorbital gland above their eyes that filters excess salt from their bloodstream. The salt is excreted through the bill.",
+    "species": "All penguins"
+  },
+  {
+    "id": 13,
+    "category": "species",
+    "fact": "The African penguin, also known as the Jackass penguin due to its donkey-like braying call, is the only penguin species found on the African continent. Its population has declined by over 70% since the early 20th century.",
+    "species": "African penguin"
+  },
+  {
+    "id": 14,
+    "category": "behavior",
+    "fact": "Penguins are remarkable swimmers, capable of reaching speeds of up to 25 km/h in the water. They use their wings as flippers, essentially flying through the water with great agility.",
+    "species": "All penguins"
+  },
+  {
+    "id": 15,
+    "category": "reproduction",
+    "fact": "Most penguin species are monogamous within a breeding season, and many form long-term pair bonds that last multiple years. Couples often perform elaborate courtship rituals involving calls, bowing, and gift-giving of pebbles.",
+    "species": "All penguins"
+  },
+  {
+    "id": 16,
+    "category": "diet",
+    "fact": "Penguins use their spiny tongues and backward-pointing spines in their mouths to grip slippery prey like fish and squid. They swallow their prey whole.",
+    "species": "All penguins"
+  },
+  {
+    "id": 17,
+    "category": "habitat",
+    "fact": "The Galápagos penguin is the only penguin species that lives north of the equator in the wild, surviving in the tropics thanks to the cold Humboldt and Cromwell ocean currents that keep the waters around the islands cool.",
+    "species": "Galápagos penguin"
+  },
+  {
+    "id": 18,
+    "category": "evolution",
+    "fact": "The closest living relatives of penguins are the albatrosses and petrels, belonging to the order Procellariiformes. Genetic studies confirm that penguins and these seabirds share a common ancestor.",
+    "species": "All penguins"
+  },
+  {
+    "id": 19,
+    "category": "biology",
+    "fact": "Penguin feathers are unique in that they are very short, broad, and densely packed, overlapping like roof tiles to create a waterproof barrier. Unlike most birds, penguin feathers cover the entire body uniformly.",
+    "species": "All penguins"
+  },
+  {
+    "id": 20,
+    "category": "species",
+    "fact": "The Chinstrap penguin gets its name from the thin black line of feathers that runs under its chin, making it look like it is wearing a helmet. It is one of the most numerous penguin species, with an estimated 8 million individuals.",
+    "species": "Chinstrap penguin"
+  },
+  {
+    "id": 21,
+    "category": "conservation",
+    "fact": "Climate change is causing significant shifts in sea ice and krill populations in Antarctica, threatening food availability for many penguin species. Emperor penguin colonies are predicted to decline by over 80% by 2100 under current warming trajectories.",
+    "species": "Emperor penguin"
+  },
+  {
+    "id": 22,
+    "category": "behavior",
+    "fact": "Penguins are known to toboggan on their bellies across ice and snow, propelling themselves with their flippers and feet. This behavior is not only faster than walking but also conserves energy.",
+    "species": "All penguins"
+  },
+  {
+    "id": 23,
+    "category": "reproduction",
+    "fact": "Macaroni penguins lay two eggs, but the first, smaller egg is almost always abandoned or lost. The parents focus all their energy on incubating and raising the second, larger egg.",
+    "species": "Macaroni penguin"
+  },
+  {
+    "id": 24,
+    "category": "biology",
+    "fact": "Penguins have a black back and white belly coloration known as countershading. When viewed from above, their dark backs blend with the dark ocean depths, while from below, their white bellies blend with the sunlit surface — providing camouflage from both predators and prey.",
+    "species": "All penguins"
+  },
+  {
+    "id": 25,
+    "category": "species",
+    "fact": "The King penguin is the second largest penguin species and is known for its striking orange and yellow plumage on its neck and chest. King penguins breed on sub-Antarctic islands and can live up to 26 years in the wild.",
+    "species": "King penguin"
+  },
+  {
+    "id": 26,
+    "category": "diet",
+    "fact": "Emperor penguins can dive to depths of over 500 meters and hold their breath for more than 20 minutes while hunting. Their hearts slow dramatically during deep dives to conserve oxygen.",
+    "species": "Emperor penguin"
+  },
+  {
+    "id": 27,
+    "category": "habitat",
+    "fact": "Magellanic penguins breed in coastal Patagonia in Argentina and Chile, as well as on the Falkland Islands. They migrate north to warmer waters during the austral winter, sometimes traveling thousands of kilometers.",
+    "species": "Magellanic penguin"
+  },
+  {
+    "id": 28,
+    "category": "evolution",
+    "fact": "Fossil evidence shows that some ancient penguin species were giants, such as Palaeeudyptes klekowskii, which may have stood 1.7 meters tall and weighed around 115 kg. These giant penguins lived approximately 37 million years ago.",
+    "species": "All penguins"
+  },
+  {
+    "id": 29,
+    "category": "behavior",
+    "fact": "Rockhopper penguins are known for their distinctive method of hopping between rocks rather than waddling, using both feet simultaneously to leap across uneven terrain. They are among the most aggressive penguin species.",
+    "species": "Rockhopper penguin"
+  },
+  {
+    "id": 30,
+    "category": "conservation",
+    "fact": "African penguins have been devastated by guano harvesting, egg collection, and oil spills throughout the 20th century. Conservation programs now include artificial nest boxes to provide breeding habitat on beaches where natural burrows have been lost.",
+    "species": "African penguin"
+  },
+  {
+    "id": 31,
+    "category": "biology",
+    "fact": "Penguins undergo a complete molt once a year, replacing all their feathers over a period of 2 to 6 weeks. During this time, they cannot swim or hunt and must fast, surviving on fat reserves.",
+    "species": "All penguins"
+  },
+  {
+    "id": 32,
+    "category": "species",
+    "fact": "The Adélie penguin is one of the most southerly distributed of all penguins and is well adapted to Antarctic conditions. It was named after the wife of French explorer Jules Dumont d'Urville, who discovered the species in 1840.",
+    "species": "Adélie penguin"
+  },
+  {
+    "id": 33,
+    "category": "reproduction",
+    "fact": "Penguin chicks hatch covered in soft gray or brown down feathers that are not waterproof. They must grow their adult waterproof plumage before they can enter the water to feed independently.",
+    "species": "All penguins"
+  },
+  {
+    "id": 34,
+    "category": "behavior",
+    "fact": "Gentoo penguins are the fastest penguin swimmers, reaching speeds of up to 36 km/h. They are also known to porpoise — leaping in and out of the water like dolphins — which reduces drag and allows faster travel.",
+    "species": "Gentoo penguin"
+  },
+  {
+    "id": 35,
+    "category": "habitat",
+    "fact": "Yellow-eyed penguins are found only in New Zealand and nearby sub-Antarctic islands, preferring to nest in forests and coastal scrub rather than open beaches. They are considered one of the rarest penguin species in the world.",
+    "species": "Yellow-eyed penguin"
+  },
+  {
+    "id": 36,
+    "category": "diet",
+    "fact": "Smaller penguin species, such as the Little Blue penguin, feed mainly on small schooling fish like anchovies and sardines, as well as arrow squid. They tend to forage in shallower coastal waters compared to larger species.",
+    "species": "Little Blue penguin"
+  },
+  {
+    "id": 37,
+    "category": "evolution",
+    "fact": "Penguins lost the ability to fly because the physical adaptations for efficient swimming — dense bones, flat flippers, streamlined bodies — are incompatible with flight, which requires hollow bones and large, light wings.",
+    "species": "All penguins"
+  },
+  {
+    "id": 38,
+    "category": "biology",
+    "fact": "Penguins have relatively dense, heavy bones compared to flying birds. This increased bone density reduces buoyancy, making it easier for them to dive and maneuver underwater.",
+    "species": "All penguins"
+  },
+  {
+    "id": 39,
+    "category": "conservation",
+    "fact": "The New Zealand yellow-eyed penguin, or Hoiho, is one of the world's rarest penguin species, with fewer than 4,000 individuals remaining. It faces threats from introduced predators such as stoats, ferrets, and cats.",
+    "species": "Yellow-eyed penguin"
+  },
+  {
+    "id": 40,
+    "category": "species",
+    "fact": "The Fiordland penguin, also known as the Tawaki in Māori, breeds in the rainforests and rocky shores of New Zealand's Fiordland region. It is one of the most elusive penguin species, rarely seen at sea.",
+    "species": "Fiordland penguin"
+  },
+  {
+    "id": 41,
+    "category": "behavior",
+    "fact": "Penguin parents recognize their chicks by their unique vocalizations. In dense colonies with thousands of chicks, a parent returning from the sea can locate its own chick among thousands of identical-looking birds purely by sound.",
+    "species": "All penguins"
+  },
+  {
+    "id": 42,
+    "category": "reproduction",
+    "fact": "In Adélie and Gentoo penguin colonies, males collect and present pebbles to females as courtship gifts. The quality of the pebbles a male can provide is thought to signal his fitness as a mate and nest builder.",
+    "species": "Adélie penguin"
+  },
+  {
+    "id": 43,
+    "category": "habitat",
+    "fact": "The Humboldt penguin inhabits the western coast of South America, from Peru to Chile, in areas influenced by the cold, nutrient-rich Humboldt Current. It nests in burrows and caves along rocky coastlines.",
+    "species": "Humboldt penguin"
+  },
+  {
+    "id": 44,
+    "category": "biology",
+    "fact": "Penguins can see underwater far better than humans due to flat corneas that reduce refraction in water. They may also be able to perceive ultraviolet light, which could help them detect fluorescent markings in prey or other penguins.",
+    "species": "All penguins"
+  },
+  {
+    "id": 45,
+    "category": "conservation",
+    "fact": "The Galápagos penguin is the rarest penguin species, with a total population estimated at fewer than 2,000 individuals. El Niño events, which warm the surrounding ocean and reduce food availability, are a major cause of population crashes.",
+    "species": "Galápagos penguin"
+  },
+  {
+    "id": 46,
+    "category": "species",
+    "fact": "The Macaroni penguin is the most numerous penguin species, with an estimated global population of around 18 million individuals. It is named after the 18th-century fashion of wearing feathers in hats, which the crest feathers resemble.",
+    "species": "Macaroni penguin"
+  },
+  {
+    "id": 47,
+    "category": "diet",
+    "fact": "Penguins store food in their stomach to carry back to their chicks, regurgitating a partially digested meal of fish or krill directly into the chick's mouth. Both parents take turns feeding the chick in this way.",
+    "species": "All penguins"
+  },
+  {
+    "id": 48,
+    "category": "behavior",
+    "fact": "Emperor penguins form massive huddles of thousands of individuals during Antarctic blizzards, with individuals on the outer edge slowly rotating inward so that no individual is exposed to the cold for too long. This cooperative thermoregulation can raise temperatures inside the huddle to over 37°C.",
+    "species": "Emperor penguin"
+  },
+  {
+    "id": 49,
+    "category": "evolution",
+    "fact": "New Zealand is considered the evolutionary cradle of penguins. The earliest known penguin fossil, Waimanu manneringi, was discovered in New Zealand and dates to approximately 61 million years ago, shortly after the end-Cretaceous extinction.",
+    "species": "All penguins"
+  },
+  {
+    "id": 50,
+    "category": "conservation",
+    "fact": "Marine protected areas and sustainable fisheries management are critical conservation tools for penguins, as overfishing directly reduces the availability of their prey. International agreements such as the Convention on the Conservation of Antarctic Marine Living Resources help regulate fishing in key penguin feeding grounds.",
+    "species": "All penguins"
+  }
+]

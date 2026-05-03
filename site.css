@@ -1,0 +1,46 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f0f4f8; color: #1a202c; line-height: 1.6; }
+header { background: linear-gradient(135deg, #1a365d 0%, #2a4a7f 100%); color: white; padding: 3rem 1rem; text-align: center; }
+.header-inner { max-width: 900px; margin: 0 auto; }
+header h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
+header p { font-size: 1.1rem; opacity: 0.9; margin-bottom: 1rem; }
+.stats-bar { display: flex; gap: 2rem; justify-content: center; font-size: 1.1rem; }
+.stats-bar span { background: rgba(255,255,255,0.15); padding: 0.25rem 1rem; border-radius: 20px; }
+main { max-width: 1100px; margin: 0 auto; padding: 2rem 1rem; }
+section { margin-bottom: 3rem; }
+section h2 { font-size: 1.5rem; margin-bottom: 1rem; color: #2a4a7f; border-bottom: 2px solid #bee3f8; padding-bottom: 0.5rem; }
+.conservation-summary .status-row { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.status-badge { color: white; padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.85rem; font-weight: 600; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
+.card { background: white; border-radius: 10px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 2px 8px rgba(0,0,0,0.08); transition: transform 0.2s, box-shadow 0.2s; display: block; }
+.card:hover { transform: translateY(-3px); box-shadow: 0 6px 20px rgba(0,0,0,0.15); }
+.card-header { padding: 1rem; }
+.card-header h3 { font-size: 1.1rem; margin-bottom: 0.2rem; }
+.card-header em { color: #666; font-size: 0.85rem; }
+.card-body { padding: 0.75rem 1rem 1rem; }
+.badge { display: inline-block; color: white; padding: 0.2rem 0.6rem; border-radius: 12px; font-size: 0.75rem; font-weight: 600; margin-bottom: 0.5rem; }
+.card-body p { font-size: 0.85rem; color: #555; margin-bottom: 0.5rem; }
+.stats { display: flex; gap: 0.5rem; flex-wrap: wrap; font-size: 0.8rem; color: #777; }
+.facts-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1rem; margin-bottom: 1.5rem; }
+.fact-card { background: white; border-radius: 10px; padding: 1.25rem; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.fact-cat { display: inline-block; background: #ebf8ff; color: #2b6cb0; padding: 0.2rem 0.6rem; border-radius: 12px; font-size: 0.75rem; font-weight: 600; margin-bottom: 0.5rem; text-transform: uppercase; letter-spacing: 0.05em; }
+.fact-card p { font-size: 0.9rem; line-height: 1.5; margin-bottom: 0.5rem; }
+.fact-card small { color: #888; font-style: italic; font-size: 0.8rem; }
+.btn { display: inline-block; background: #2a4a7f; color: white; padding: 0.6rem 1.5rem; border-radius: 8px; text-decoration: none; font-weight: 600; transition: background 0.2s; }
+.btn:hover { background: #1a365d; }
+footer { background: #1a202c; color: #a0aec0; text-align: center; padding: 2rem; font-size: 0.9rem; }
+footer a { color: #63b3ed; }
+footer p { margin-bottom: 0.3rem; }
+.species-hero { background: white; border-radius: 12px; padding: 2rem; margin-bottom: 2rem; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+.species-hero h1 { font-size: 2rem; color: #1a365d; margin-bottom: 0.3rem; }
+.species-hero .sci { font-style: italic; color: #666; font-size: 1.1rem; margin-bottom: 1rem; }
+.info-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem; }
+.info-item { background: #f7fafc; border-radius: 8px; padding: 0.75rem; }
+.info-item strong { display: block; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: #888; margin-bottom: 0.2rem; }
+.info-item span { font-size: 0.95rem; color: #2d3748; }
+.threats-list { list-style: none; display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.5rem; }
+.threats-list li { background: #fff5f5; color: #c53030; border: 1px solid #feb2b2; padding: 0.2rem 0.6rem; border-radius: 12px; font-size: 0.8rem; }
+.back-link { display: inline-block; margin-bottom: 1.5rem; color: #2a4a7f; text-decoration: none; font-weight: 600; }
+.back-link:hover { text-decoration: underline; }
+.fact-row { background: white; border-radius: 8px; padding: 1rem 1.25rem; margin-bottom: 0.75rem; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+.fact-row .meta { display: flex; gap: 0.5rem; margin-bottom: 0.4rem; align-items: center; }

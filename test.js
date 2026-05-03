@@ -31,7 +31,7 @@ test('threats is array with entries', () => {
 // facts.json
 console.log('\nfacts.json')
 const facts = JSON.parse(read('facts.json'))
-test('has >=30 facts', () => assert.ok(facts.length >= 30, `only ${facts.length}`))
+test('has >=60 facts', () => assert.ok(facts.length >= 60, `only ${facts.length}`))
 test('each fact has id+category+fact+species', () => {
   for (const f of facts) {
     assert.ok(f.id, 'missing id')
@@ -67,6 +67,7 @@ test('index.html references all species', () => {
   for (const s of species) assert.ok(idx.includes(s.name), `index.html missing ${s.name}`)
 })
 test('index.html links to facts.html', () => assert.ok(read('index.html').includes('facts.html')))
+test('conservation.html exists', () => assert.ok(exists('conservation.html')))
 test('species pages link back to index', () => {
   const slug = species[0].name.toLowerCase().replace(/[^a-z0-9]+/g, '-')
   assert.ok(read(`species/${slug}.html`).includes('../index.html'))

@@ -298,5 +298,95 @@
     "category": "conservation",
     "fact": "Marine protected areas and sustainable fisheries management are critical conservation tools for penguins, as overfishing directly reduces the availability of their prey. International agreements such as the Convention on the Conservation of Antarctic Marine Living Resources help regulate fishing in key penguin feeding grounds.",
     "species": "All penguins"
+  },
+  {
+    "id": 51,
+    "category": "biology",
+    "fact": "Emperor penguins have four layers of feathers, providing insulation against Antarctic temperatures as low as -60°C.",
+    "species": "Emperor penguin"
+  },
+  {
+    "id": 52,
+    "category": "behavior",
+    "fact": "African penguins communicate using donkey-like braying calls to locate their mates and chicks within crowded colonies.",
+    "species": "African penguin"
+  },
+  {
+    "id": 53,
+    "category": "conservation",
+    "fact": "The yellow-eyed penguin is one of the rarest penguin species, with fewer than 4,000 individuals remaining in the wild.",
+    "species": "Yellow-eyed penguin"
+  },
+  {
+    "id": 54,
+    "category": "evolution",
+    "fact": "Penguins diverged from flying birds approximately 60 million years ago, shortly after the mass extinction event that ended the dinosaur era.",
+    "species": "all penguins"
+  },
+  {
+    "id": 55,
+    "category": "species",
+    "fact": "The little blue penguin, also called the fairy penguin, is the smallest penguin species, standing only 33 centimeters tall.",
+    "species": "Little blue penguin"
+  },
+  {
+    "id": 56,
+    "category": "habitat",
+    "fact": "Galapagos penguins are the only penguin species that live north of the equator in their natural habitat.",
+    "species": "Galapagos penguin"
+  },
+  {
+    "id": 57,
+    "category": "diet",
+    "fact": "Chinstrap penguins consume up to 400 grams of krill per day during the summer feeding season to build fat reserves.",
+    "species": "Chinstrap penguin"
+  },
+  {
+    "id": 58,
+    "category": "reproduction",
+    "fact": "King penguins have a unique 14-to-16-month breeding cycle, meaning successful pairs can only raise two chicks every three years.",
+    "species": "King penguin"
+  },
+  {
+    "id": 59,
+    "category": "biology",
+    "fact": "Penguins have a supraorbital gland above their eyes that filters excess salt from seawater, allowing them to drink saltwater safely.",
+    "species": "all penguins"
+  },
+  {
+    "id": 60,
+    "category": "behavior",
+    "fact": "Macaroni penguins form the largest penguin colonies on Earth, with some aggregations exceeding 100,000 breeding pairs on a single island.",
+    "species": "Macaroni penguin"
+  },
+  {
+    "id": 61,
+    "category": "conservation",
+    "fact": "Seventeen of the eighteen recognized penguin species are currently classified as vulnerable, endangered, or near threatened by the IUCN.",
+    "species": "all penguins"
+  },
+  {
+    "id": 62,
+    "category": "evolution",
+    "fact": "Fossil evidence shows that ancient penguins such as Palaeeudyptes klekowskii could grow up to 2 meters tall and weigh over 115 kilograms.",
+    "species": "all penguins"
+  },
+  {
+    "id": 63,
+    "category": "habitat",
+    "fact": "Humboldt penguins nest in burrows dug into guano deposits along the rocky coastlines of Peru and Chile.",
+    "species": "Humboldt penguin"
+  },
+  {
+    "id": 64,
+    "category": "diet",
+    "fact": "Emperor penguins can dive to depths exceeding 500 meters and hold their breath for over 20 minutes while hunting fish and squid.",
+    "species": "Emperor penguin"
+  },
+  {
+    "id": 65,
+    "category": "reproduction",
+    "fact": "Adelie penguins engage in stone theft, sneaking pebbles from neighboring nests since males use high-quality stones to attract mates.",
+    "species": "Adelie penguin"
   }
 ]

@@ -1,0 +1,32 @@
+{
+    "ts":  "2026-05-12T14-27-55",
+    "agent":  "gm-execute (direct edit + witnessed citation)",
+    "test_result":  {
+                        "exit_code":  0,
+                        "command":  "node test.js",
+                        "failed":  0,
+                        "passed":  17
+                    },
+    "citations":  [
+                      "Bost CA et al. (2024) Crozet King penguin colony decline. Global Change Biology.",
+                      "Pütz K et al. (2024) South Georgia King penguin diving response to myctophid migration. J Exp Biol.",
+                      "Le Guen C et al. (2025) Microplastic prevalence in Kerguelen King penguin scat. Mar Pollut Bull."
+                  ],
+    "changes":  [
+                    {
+                        "lines_added":  8,
+                        "file":  "species/king-penguin.html",
+                        "action":  "inserted Recent research 2024-2025 section"
+                    },
+                    {
+                        "categories":  [
+                                           "conservation",
+                                           "behavior",
+                                           "biology"
+                                       ],
+                        "file":  "facts.json",
+                        "action":  "appended ids 66, 67, 68"
+                    }
+                ],
+    "task":  "penguins-agent-research-cycle"
+}

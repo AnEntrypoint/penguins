@@ -1,0 +1,32 @@
+_config_version: 3
+display:
+  skin: default
+agent:
+  provider: ''
+  model: ''
+  max_iterations: 30
+  save_trajectories: true
+  model_preference:
+    - provider: groq
+      model: llama-3.3-70b-versatile
+    - provider: cerebras
+      model: llama-3.3-70b
+    - provider: openrouter
+      model: meta-llama/llama-3.3-70b-instruct
+    - provider: claude-cli
+      model: haiku
+  model_queues:
+    fast:
+      - provider: groq
+        model: llama-3.3-70b-versatile
+      - provider: cerebras
+        model: llama-3.3-70b
+    smart:
+      - provider: claude-cli
+        model: sonnet
+      - provider: openrouter
+        model: anthropic/claude-sonnet-4
+toolsets:
+  enabled: [core, browse]
+plugins:
+  enabled: []

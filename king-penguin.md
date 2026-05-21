@@ -1,0 +1,6 @@
+- **Second-largest penguin species**
+  - Size: ~94cm, ~15kg
+  - Habitat: Subantarctic islands (South Georgia, Crozet, Kerguelen)
+  - Diet: Myctophid fish and squid
+  - IUCN Status: Least Concern
+  - Breeding: Dense colonies, 14-16 month chick development
